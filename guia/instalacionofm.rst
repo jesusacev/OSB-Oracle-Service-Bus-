@@ -2,8 +2,11 @@ Instalación de Oracle Fusion Middleware
 ========
 
 - Requisitos:
-1. Tener un java instalado que sea compatible con la versión de Oracle Fusion Middleware a Instalar
+1. Tener un java instalado que sea compatible con la versión de Oracle Fusion Middleware a Instalar.
 2. Verificar que el entorno de las ventanas X esté operativo.
+
+
+Esta instalación se debe realizar en todos los servidores que conformaran la plataforma OSB.
 
 
 - Ejecutamos el jar de instalación de Oracle Fusion Middleware:
