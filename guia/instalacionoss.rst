@@ -33,7 +33,7 @@ Esta instalación se debe realizar en todos los servidores que conformaran la pl
 - Indicamos la ruta de instalación que debe ser igual a la ruta a donde instalamos el Oracle Fusion Middleware:
 
 
-.. image:: ../imagenes/ofm/Captura3.PNG
+.. image:: ../imagenes/soa/Captura12.PNG
 
 
 - La instalación chequea los pre-requisitos de sistema operativo y java.
