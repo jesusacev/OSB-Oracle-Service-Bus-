@@ -62,7 +62,7 @@ Creación de Dominio OSB en Cluster
 .. image:: ../imagenes/dominio/Captura9.PNG
 
 
-- Realizrá un test jdbc por cada componente:
+- Realizará un test jdbc por cada componente:
 
 
 .. image:: ../imagenes/dominio/Captura10.PNG
@@ -152,7 +152,7 @@ Creación de Dominio OSB en Cluster
 .. image:: ../imagenes/dominio/Captura24.PNG
 
 
-- En los despliegues de destino se agrega "wsm-pm":
+- En los despliegues de destino se agrega "wsm-pm" al Admin Server:
 
 
 .. image:: ../imagenes/dominio/Captura25.PNG
@@ -185,4 +185,4 @@ Creación de Dominio OSB en Cluster
 - Finalmente nos mostrará un mensaje que el dominio fue creado satisfactoriamente:
 
 
-.. image:: ../imagenes/dominio/Captura30.PNG
+.. image:: ../imagenes/dominio/Captura30.png

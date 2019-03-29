@@ -4,6 +4,7 @@ Creación de Repositorio de Metadata
 - Requisitos:
 1. Tener un java instalado que sea compatible con la versión de rcu a Instalar.
 2. Verificar que el entorno de las ventanas X esté operativo.
+3. Tener instalado Oracle fusion Middleware y Oracle SOA Suite.
 
 
 Esta creación de repositorio se debe realizar por cada dominio OSB que se vaya a crear
