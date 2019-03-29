@@ -15,19 +15,19 @@ Esta instalación se debe realizar en todos los servidores que conformaran la pl
 - Ejecutamos el jar de instalación de Oracle SOA Suite, en este caso "fmw_12.2.1.3.0_soa_quickstart.jar". Son 2 jar y se deben colocar en la misma ruta, y ejecutar el nombrado anteriormente:
 
 
-.. image:: ../imagenes/oss/Captura9.PNG
+.. image:: ../imagenes/soa/Captura9.PNG
 
 
 - La instalación nos da la bienvenida:
 
 
-.. image:: ../imagenes/oss/Captura10.PNG
+.. image:: ../imagenes/soa/Captura10.PNG
 
 
 - Especificamos las actualizaciones por defecto:
 
 
-.. image:: ../imagenes/oss/Captura11.PNG
+.. image:: ../imagenes/soa/Captura11.PNG
 
 
 - Indicamos la ruta de instalación que debe ser igual a la ruta a donde instalamos el Oracle Fusion Middleware:
@@ -39,25 +39,25 @@ Esta instalación se debe realizar en todos los servidores que conformaran la pl
 - La instalación chequea los pre-requisitos de sistema operativo y java.
 
 
-.. image:: ../imagenes/oss/Captura13.PNG
+.. image:: ../imagenes/soa/Captura13.PNG
 
 
 - Nos muestra el resumen de la instalación:
 
 
-.. image:: ../imagenes/oss/Captura14.PNG
+.. image:: ../imagenes/soa/Captura14.PNG
 
 
 - Esperamos a que el progreso de la instalación llegue al 100 %:
 
 
-.. image:: ../imagenes/oss/Captura15.PNG
+.. image:: ../imagenes/soa/Captura15.PNG
 
 
-.. image:: ../imagenes/oss/Captura16.PNG
+.. image:: ../imagenes/soa/Captura16.PNG
 
 
 - Finalmente nos indicará que la instalación ha sido completada:
 
 
-.. image:: ../imagenes/oss/Captura17.PNG
+.. image:: ../imagenes/soa/Captura17.PNG
