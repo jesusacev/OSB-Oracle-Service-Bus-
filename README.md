@@ -3,3 +3,4 @@
 
 * [Instalación de Oracle Fusion Middleware](guia/instalacionofm.rst)
 * [Instalación de Oracle SOA Suite](guia/instalacionoss.rst)
+* [Creación de Repositorio de Metadata](guia/repositorio.rst)
