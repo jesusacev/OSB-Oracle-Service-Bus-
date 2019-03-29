@@ -84,7 +84,7 @@ Esta creación de repositorio se debe realizar por cada dominio OSB que se vaya 
 .. image:: ../imagenes/metadata/Captura13.PNG
 
 
-- Una vez completada la instalación, todos los componentes deben mostrar estatus "success":
+- Una vez completada la instalación, todos los componentes deben mostrar estatus "Success":
 
 
 .. image:: ../imagenes/metadata/Captura14.PNG
