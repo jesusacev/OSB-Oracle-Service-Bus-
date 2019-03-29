@@ -12,7 +12,7 @@ Instalación de Oracle Fusion Middleware
 .. image:: ../imagenes/ofm/Captura1.PNG
 
 
-- Dejamos las actualziaciones por defecto:
+- Dejamos las actualizaciones por defecto:
 
 
 .. image:: ../imagenes/ofm/Captura2.PNG
