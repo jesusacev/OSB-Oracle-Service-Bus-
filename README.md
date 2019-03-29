@@ -1,4 +1,4 @@
 # Documentacion Oracle Service Bus (OSB)
 
 
-* [Instalación de Oracle Service Bus](guia/instalacion.rst)
+* [Instalación de Oracle Fusion Middleware](guia/instalacionofm.rst)
