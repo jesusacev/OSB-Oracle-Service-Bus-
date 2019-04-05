@@ -8,3 +8,4 @@
 * [Configuración de Seguridad del Admin](guia/seguridad.rst)
 * [Cambio en Configuración de Seguridad del Node Manager](guia/node.rst)
 * [Actualización de Credenciales y Configuración a Tipo Normal del Node Manager](guia/credenciales.rst)
+* [Propagación del Dominio a Otras Máquinas](guia/propagacion.rst)
