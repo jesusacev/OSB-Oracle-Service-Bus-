@@ -11,4 +11,4 @@ Cambio en Configuración de Seguridad del Node Manager
 - El parámetro SecureListener lo debemos colocar en "false":
 
 
-.. image:: ../imagenes/seguridad/14-03-201911-29-41.png
+.. image:: ../imagenes/node/14-03-201911-29-41.png
