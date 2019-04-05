@@ -5,7 +5,7 @@ Configuración de Seguridad del Admin
 - Para que cada vez que iniciemos el Admin no nos pida contraseña, debemos crear en la ruta $DOMAIN_HOME/servers/AdminServer un directorio llamado security, y dentro de el un archivo llamado boot.properties:
 
 
-.. image:: ../imagenes/seguridad/'14-03-2019 11-21-27.png'
+.. image:: ../imagenes/seguridad/14-03-2019\ 11-21-27.png
 
 
 - En ese archivo debemos agregar las líneas de username y password, tal cual como lo definimos en las credenciales del Admin cuando se creó el dominio:
