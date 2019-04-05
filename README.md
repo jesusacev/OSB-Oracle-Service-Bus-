@@ -5,3 +5,4 @@
 * [Instalación de Oracle SOA Suite](guia/instalacionoss.rst)
 * [Creación de Repositorio de Metadata](guia/repositorio.rst)
 * [Creación de Dominio OSB en Cluster](guia/dominio.rst)
+* [Configuración de Seguridad del Admin](guia/seguridad.rst)
