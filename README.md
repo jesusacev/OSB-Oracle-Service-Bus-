@@ -7,3 +7,4 @@
 * [Creación de Dominio OSB en Cluster](guia/dominio.rst)
 * [Configuración de Seguridad del Admin](guia/seguridad.rst)
 * [Cambio en Configuración de Seguridad del Node Manager](guia/node.rst)
+* [Actualización de Credenciales y Configuración a Tipo Normal del Node Manager](guia/credenciales.rst)
