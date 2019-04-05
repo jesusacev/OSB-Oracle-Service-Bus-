@@ -6,3 +6,4 @@
 * [Creación de Repositorio de Metadata](guia/repositorio.rst)
 * [Creación de Dominio OSB en Cluster](guia/dominio.rst)
 * [Configuración de Seguridad del Admin](guia/seguridad.rst)
+* [Cambio en Configuración de Seguridad del Node Manager](guia/node.rst)
