@@ -11,7 +11,7 @@ Activación del plugin de Weblogic (solo si se utiliza OHS)
 - Luego damos click sobre el nombre del cluster: 
 
 
-.. image:: ../imagenes/plugin/26-03-201916-19-02
+.. image:: ../imagenes/plugin/26-03-201916-19-02.png
 
 
 - Nos posicionamos en las pestañas Configuración - General:
