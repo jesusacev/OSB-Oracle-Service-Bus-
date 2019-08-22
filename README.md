@@ -10,3 +10,4 @@
 * [Actualización de Credenciales y Configuración a Tipo Normal del Node Manager](guia/credenciales.rst)
 * [Propagación del Dominio a Otras Máquinas](guia/propagacion.rst)
 * [Desactivación del parámetro Host Name Verification](guia/desactivacion.rst)
+* [Activación del plugin de Weblogic (solo si se utiliza OHS)](guia/plugin.rst)
