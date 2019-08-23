@@ -11,3 +11,4 @@
 * [Propagación del Dominio a Otras Máquinas](guia/propagacion.rst)
 * [Desactivación del parámetro Host Name Verification](guia/desactivacion.rst)
 * [Activación del plugin de Weblogic (solo si se utiliza OHS)](guia/plugin.rst)
+* [12-Creación de Servidores WTC](guia/wtc.rst)
