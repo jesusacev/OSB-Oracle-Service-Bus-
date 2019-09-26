@@ -1,5 +1,5 @@
-Agregar Direcciones del Cluster.
-========
+Exportar e Importar Servicios.
+=======
 
 
 En nuestro caso se está migrando de Oracle Service Bus, de la versión 11g a 12c, por lo que debemos exportar los servicios del Bus de 11g e importarlos en 12c. Estas migraciones deben ser consultadas con el área de desarrollo de sotfware, ya que al cambiar el java, hay cambios de librerias que pueden afectar el funcionamiento de la aplicación en el nuevo entorno.
@@ -83,3 +83,6 @@ En nuestro caso se está migrando de Oracle Service Bus, de la versión 11g a 12
 
 
 .. image:: ../imagenes/servicios/14-03-201916-27-56.png
+
+
+Cabe destacar, que en esta migración los servicios quedaron funcionando de manera satisfactoria en el nuevo Oracle Service Bus 12c, en um ambiente de producción.

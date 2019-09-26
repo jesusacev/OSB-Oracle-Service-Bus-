@@ -15,3 +15,4 @@
 * [Agregar Direcciones del Cluster](guia/direccion.rst)
 * [Copiar Librerias para la Aplicación (De ser necesario)](guia/libreria.rst)
 * [Exportar e Importar Servicios](guia/servicios.rst)
+* [Aumentar memoria de JVM en Admin Server y Servidores Gestionados](guia/memoria.rst)
