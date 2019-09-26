@@ -12,3 +12,4 @@
 * [Desactivación del parámetro Host Name Verification](guia/desactivacion.rst)
 * [Activación del plugin de Weblogic (solo si se utiliza OHS)](guia/plugin.rst)
 * [Creación de Servidores WTC](guia/wtc.rst)
+* [Agregar direcciones del cluster](guia/direccion.rst)
